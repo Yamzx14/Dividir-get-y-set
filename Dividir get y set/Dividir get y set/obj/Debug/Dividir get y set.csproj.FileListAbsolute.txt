@@ -1,0 +1,11 @@
+C:\Users\emili\source\repos\Dividir get y set\Dividir get y set\bin\Debug\Dividir get y set.exe.config
+C:\Users\emili\source\repos\Dividir get y set\Dividir get y set\bin\Debug\Dividir get y set.exe
+C:\Users\emili\source\repos\Dividir get y set\Dividir get y set\bin\Debug\Dividir get y set.pdb
+C:\Users\emili\source\repos\Dividir get y set\Dividir get y set\obj\Debug\Dividir get y set.csproj.AssemblyReference.cache
+C:\Users\emili\source\repos\Dividir get y set\Dividir get y set\obj\Debug\Dividir get y set.csproj.SuggestedBindingRedirects.cache
+C:\Users\emili\source\repos\Dividir get y set\Dividir get y set\obj\Debug\Dividir_get_y_set.Form1.resources
+C:\Users\emili\source\repos\Dividir get y set\Dividir get y set\obj\Debug\Dividir_get_y_set.Properties.Resources.resources
+C:\Users\emili\source\repos\Dividir get y set\Dividir get y set\obj\Debug\Dividir get y set.csproj.GenerateResource.cache
+C:\Users\emili\source\repos\Dividir get y set\Dividir get y set\obj\Debug\Dividir get y set.csproj.CoreCompileInputs.cache
+C:\Users\emili\source\repos\Dividir get y set\Dividir get y set\obj\Debug\Dividir get y set.exe
+C:\Users\emili\source\repos\Dividir get y set\Dividir get y set\obj\Debug\Dividir get y set.pdb
